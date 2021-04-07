@@ -1,5 +1,6 @@
 {
     "name": "template arcade save-the-princess",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
