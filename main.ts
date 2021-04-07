@@ -16,7 +16,7 @@ function startInstruction () //starting instructions
 {
     game.showLongText("Welcome to the game!", DialogLayout.Bottom)
     game.showLongText("Move with the left and right buttons.", DialogLayout.Bottom)
-    game.showLongText("Jump with A or up button.", DialogLayout.Bottom)
+    game.showLongText("Jump with A button.", DialogLayout.Bottom)
     game.showLongText("Shoot with B button.", DialogLayout.Bottom)
     game.showLongText("Collect shoes along the way for the princess.", DialogLayout.Bottom)
     game.showLongText("Avoid the eggs!", DialogLayout.Bottom)
